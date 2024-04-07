@@ -1,0 +1,29 @@
+* Quản lý danh sách sinh viên
+
++ Xây dựng lớp đối tượng tỉnh thành
+	. Mã tỉnh: int
+	. Tên tỉnh: String
++ Xây dựng lớp đối tượng thí sinh
+	. Mã thí sinh: int
+	. Tên thí sinh : String
+	. Mã quê quán <tham chiếu đến đối tượng tỉnh thành>
+	. Ngày tháng năm sinh : Date
+	. Giới tính: boolean <Name = true, Nữ = false>
+	. Điểm môn 1: float <0.0 - 10.0>
+	. Điểm môn 2: float <0.0 - 10.0>
+	. Điểm môn 3: float <0.0 - 10.0>
++ Xây dựng các danh sách cho phép quản lý
+	. Danh sách các tỉnh thành
+	. Danh sách các thí sinh tham gia đại học
++ Thực hiện các chức năng sau đây
+	. Kết nối file dữ liệu
+	. Kết thúc kết nối và lưu file dữ liệu vào file dữ liệu
+	. Hiển thị thông tin và quản lý thí sinh thi đại học
+		. Lọc thông tin thí sinh theo quê quán hoặc theo giới tính
+		. Danh sách thí sinh: hiển thị đầy đủ các thông tin các thí sinh đã lọc hoặc chưa lọc
+		. Thông tin chi tiết khi người dùng chọn 1 thí sinh, thông tin đầy đủ sẽ hiển thị ở bảng chi tiết cho phép người dùng:
+		+ thêm mới
+		+ loại bỏ
+		+ Thay đổi thông tin <OK - Cancel>
+
+* Lưu trữ dữ liệu thông qua các file "student.txt" và "city.txt"
