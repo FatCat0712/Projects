@@ -1,0 +1,13 @@
+E:\C#\KTMM_Chat\bin\Debug\KTMM_Chat.exe.config
+E:\C#\KTMM_Chat\bin\Debug\KTMM_Chat.exe
+E:\C#\KTMM_Chat\bin\Debug\KTMM_Chat.pdb
+E:\C#\KTMM_Chat\bin\Debug\myStruct.dll
+E:\C#\KTMM_Chat\bin\Debug\myStruct.pdb
+E:\C#\KTMM_Chat\obj\Debug\KTMM_Chat.csproj.AssemblyReference.cache
+E:\C#\KTMM_Chat\obj\Debug\KTMM_Chat.Server.resources
+E:\C#\KTMM_Chat\obj\Debug\KTMM_Chat.Properties.Resources.resources
+E:\C#\KTMM_Chat\obj\Debug\KTMM_Chat.csproj.GenerateResource.cache
+E:\C#\KTMM_Chat\obj\Debug\KTMM_Chat.csproj.CoreCompileInputs.cache
+E:\C#\KTMM_Chat\obj\Debug\KTMM_Chat.csproj.CopyComplete
+E:\C#\KTMM_Chat\obj\Debug\KTMM_Chat.exe
+E:\C#\KTMM_Chat\obj\Debug\KTMM_Chat.pdb
