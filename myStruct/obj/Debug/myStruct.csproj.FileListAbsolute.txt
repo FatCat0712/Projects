@@ -1,0 +1,6 @@
+E:\C#\myStruct\bin\Debug\myStruct.dll
+E:\C#\myStruct\bin\Debug\myStruct.pdb
+E:\C#\myStruct\obj\Debug\myStruct.csproj.AssemblyReference.cache
+E:\C#\myStruct\obj\Debug\myStruct.csproj.CoreCompileInputs.cache
+E:\C#\myStruct\obj\Debug\myStruct.dll
+E:\C#\myStruct\obj\Debug\myStruct.pdb

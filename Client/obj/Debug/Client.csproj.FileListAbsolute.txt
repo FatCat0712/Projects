@@ -1,0 +1,14 @@
+E:\C#\Client\bin\Debug\Client.exe.config
+E:\C#\Client\bin\Debug\Client.exe
+E:\C#\Client\bin\Debug\Client.pdb
+E:\C#\Client\bin\Debug\myStruct.dll
+E:\C#\Client\bin\Debug\myStruct.pdb
+E:\C#\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\C#\Client\obj\Debug\Client.MainChat.resources
+E:\C#\Client\obj\Debug\Client.Login.resources
+E:\C#\Client\obj\Debug\Client.Properties.Resources.resources
+E:\C#\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\C#\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\C#\Client\obj\Debug\Client.csproj.CopyComplete
+E:\C#\Client\obj\Debug\Client.exe
+E:\C#\Client\obj\Debug\Client.pdb
